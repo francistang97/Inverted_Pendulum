@@ -1,0 +1,5 @@
+Report for 159.302 Assignment 2
+Standing time: infinite
+Fuzzyset scalar: 1 
+Output scalar: 2.5
+Linear function scalar: 0.3
